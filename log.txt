@@ -1,0 +1,31 @@
+Error 1: Your transaction faild - account id 99999  does not exits
+
+2: New account id is 88888  with password 0000 and initial balance 10
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+2: New account id is 12345  with password 0000 and initial balance 100
+
+1: New account id is 12121  with password 11QW and initial balance 600
+
+Error 2: Your transaction faild - account id 12345  does not exits
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+2: Account 12345 now balance is 112 after 12 $ was deposited
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+2: New account id is 00111  with password 1234 and initial balance 45
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+Error 1: Your transaction faild - account id 99999  does not exits
+
+1: New account id is 33333  with password DCDC and initial balance 8
+
+1: New account id is 66666  with password 5T5T and initial balance 30
+
+1: Account 66666 now balance is 50 after 20 $ was deposited
